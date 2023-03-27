@@ -1,4 +1,4 @@
-# Alphabet-ASL-Real-Time-Recognition 
+# Alphabet-ASL-Real-Time-Detection
 A real-time alphabet American Sign Language recognition using MediaPipe and CNN.
 
 ## Authors
